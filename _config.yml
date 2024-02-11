@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haonan Zhang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/zhn_profile.png"
   bio              : "Vision-Language Group@CFM"
   location         : "Sichuan, China"
   employer         :
