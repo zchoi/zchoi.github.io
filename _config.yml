@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Haonan Zhang"
+description              : "University of Electronic Science and Technology of China (UESTC)"
+repository               : "haonanzhang-z/haonanzhang-z.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
+  name             : "Haonan Zhang"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Vision-Language Group@CFM"
+  location         : "Sichuan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=awYExM8AAAAJ&hl=zh-CN"
+  email            : "zchiowal@gmail.com"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "zchoi"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1015-7338"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
