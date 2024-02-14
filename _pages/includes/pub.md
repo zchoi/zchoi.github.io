@@ -1,7 +1,7 @@
 
 # 📝 Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="glscl" width="100%" height="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="vcrn" width="100%" height="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Visual Commonsense-aware Representation Network for Video Captioning** <br>
