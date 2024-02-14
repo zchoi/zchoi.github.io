@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 **Visual Commonsense-aware Representation Network for Video Captioning** <br>
-Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen <br>
+[Pengpeng Zeng](https://ppengzeng.github.io/), **Haonan Zhang**, [Lianli Gao](https://lianligao.github.io/), [Xiangpeng Li](https://scholar.google.com/citations?hl=zh-CN&user=phH12a4AAAAJ&view_op=list_works&sortby=pubdate), Jin Qian, [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
 _IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2023**_ <br>
 [[Paper]](https://arxiv.org/abs/2211.09469) [[Code]](https://github.com/zchoi/VCRN/tree/main) <br>
 _Area: Video Captioning, Visual Commonsense Knowledge, Attention Mechanism, Language Generation_<be>
