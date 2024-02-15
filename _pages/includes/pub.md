@@ -11,7 +11,8 @@ _ACM International Conference on Multimedia, **MM 2023**_ <br>
 _Area: Video and Language Learning, Vision Transformer, Depth Estimation, Sparse Attention, Hierarchical Structure_<be>
 
 we propose a Depth-Aware Sparse Transformer (DAST) for video-language learning, which focuses on the geometrical relationship of instances by introducing depth information.
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="vcrn" width="100%" height="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -23,3 +24,5 @@ _IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2023**_ <br>
 _Area: Video Captioning, Visual Commonsense Knowledge, Attention Mechanism, Language Generation_<be>
 
 We present a Visual Commonsense-aware Representation Network (VCRN). Based on a plug-and-play Video Dictionary, we obtain implicit concept-prototypes among videos without extra annotation, and a Visual Concept Selection (VCS) is used to obtain a video-related concept feature. Then, a Conceptual Integration Generation (CIG) is proposed to enhance the caption generation.
+</div>
+</div>
