@@ -5,7 +5,7 @@
 <img src='../../images/aliyun.svg' style="width: 1em;height: -2em"> <img src='../../images/tianchi.svg' style="width: 2em; height: -0.5em">
 - *2023.11*: 🎉 One paper was accepted by TCSVT 2023.
 - *2023.09*: 🎉 One paper was accepted by TNNLS 2023.
-- *2023.08*: 🔥 I release a repo of curated list of [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) research.
+- *2023.08*: 🔥 I release a repo of curated list of [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) research. ![GitHub Repo stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Agent-with-LLMs?style=social)
 - *2023.07*: 🎉 One paper was accepted by TMM 2023.
 - *2023.07*: 🎉 One paper was accepted by ACM MM 2023.
 - *2023.06*: 🎉 One paper was accepted by IJCAI 2022.
