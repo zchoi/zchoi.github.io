@@ -1,6 +1,5 @@
 
 # 📝 Publication
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%" height="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
