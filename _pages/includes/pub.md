@@ -1,6 +1,18 @@
 
 # 📝 Publication
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%" height="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Depth-Aware Sparse Transformer for Video-Language Learning** <br>
+**Haonan Zhang**, [Lianli Gao](https://lianligao.github.io/), [Pengpeng Zeng](https://ppengzeng.github.io/), [Alan Hanjalic](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/alan-hanjalic/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
+_ACM International Conference on Multimedia, **MM 2023**_ <br>
+[[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611714) [[Code]](https://github.com/zchoi/DAST) [[Poster]](https://1drv.ms/b/s!Am8OAR5-SGckiKNvuofaBnypNCxbJQ?e=ow0DNd) <br>
+_Area: Video and Language Learning, Vision Transformer, Depth Estimation, Sparse Attention, Hierarchical Structure_<be>
+
+we propose a Depth-Aware Sparse Transformer (DAST) for video-language learning, which focuses on the geometrical relationship of instances by introducing depth information.
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="vcrn" width="100%" height="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
