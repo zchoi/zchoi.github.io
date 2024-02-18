@@ -9,7 +9,7 @@ _ACM International Conference on Multimedia, **MM 2023**_ <br>
 [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611714) [[Code]](https://github.com/zchoi/DAST) [[Poster]](https://1drv.ms/b/s!Am8OAR5-SGckiKNvuofaBnypNCxbJQ?e=ow0DNd) <br>
 _Area: Video and Language Learning, Vision Transformer, Depth Estimation, Sparse Attention, Hierarchical Structure_<be>
 
-we propose a Depth-Aware Sparse Transformer (DAST) for video-language learning, which focuses on the geometrical relationship of instances by introducing depth information.
+We propose a Depth-Aware Sparse Transformer (DAST) for video-language learning, which focuses on the geometrical relationship of instances by introducing depth information.
 </div>
 </div>
 
