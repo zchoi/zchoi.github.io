@@ -1,12 +1,12 @@
 ---
-permalink: /
+permalinkxwiuhxiw: /
 title: ""
-author_profile: true
+author_profilexqwjq: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html douidwe
 ---
-
+<!--
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
@@ -14,7 +14,7 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-<!--
+  
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
