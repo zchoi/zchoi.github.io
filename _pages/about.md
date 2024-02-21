@@ -19,3 +19,7 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 -->
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?haonanzhang"
+border="0" alt="Free Web Counters"></a>
+<br> Unique visitors since Feb 2024.
