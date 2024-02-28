@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2023.12* Shenzhen Stock Exchange Scholarship
 - *2023.11* First-class Scholarship.
 - *2023.04* Outstanding Graduate Teaching Assistant Award.
