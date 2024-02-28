@@ -2,4 +2,4 @@ Hi there, I am a second-year computer science Ph.D. student at University of Ele
 
 My research interest includes Multi-modal Learning such as Cross-modal Retrieval, Image Captioning, and VQA. Now the focus of my research is mainly on building LLM-based Agents and Large-scale Multimodal Pre-training.
 
-**I'm seeking an internship position in the industry. Please do not hesitate to drop me an Email if you are interested!**
+**I'm seeking an internship position in the industry. Please do not hesitate to drop me an Email (zchiowal@gmail.com) if you are interested!**
