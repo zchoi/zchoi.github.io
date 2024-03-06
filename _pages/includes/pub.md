@@ -2,6 +2,17 @@
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**Learning visual question answering on controlled semantic noisy labels** <br>
+
+**Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), Yuxuan Hu, Jin Qian, [Jingkuan Song](https://jingkuansong.github.io/), [Lianli Gao](https://lianligao.github.io/) <br>
+_Pattern Recognition, **PR 2023**_ <br>
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
+_Area: Visual question answering, Noisy datasets, Semantic labels, Contrastive learning_<be>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Depth-Aware Sparse Transformer for Video-Language Learning** <br>
 **Haonan Zhang**, [Lianli Gao](https://lianligao.github.io/), [Pengpeng Zeng](https://ppengzeng.github.io/), [Alan Hanjalic](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/alan-hanjalic/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
