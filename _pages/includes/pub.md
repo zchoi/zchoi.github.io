@@ -8,6 +8,9 @@ _Pattern Recognition, **PR 2023**_ <br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
 _Area: Visual question answering, Noisy datasets, Semantic labels, Contrastive learning_<be>
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
