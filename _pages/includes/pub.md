@@ -7,6 +7,7 @@
 _Pattern Recognition, **PR 2023**_ <br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
 _Area: Visual question answering, Noisy datasets, Semantic labels, Contrastive learning_<br>
+
 We propose a new challenging task, namely learning visual question answering with controlled semantic noisy labels. It mainly aims to explore a more robust VQA model when in the case of labels containing semantic noises.
 </div>
 </div>
