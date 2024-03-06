@@ -1,5 +1,5 @@
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNLC.png' alt="snlc" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNLC.png' alt="snlc" width="100%" height="75%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Learning visual question answering on controlled semantic noisy labels** <br>
