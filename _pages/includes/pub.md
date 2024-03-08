@@ -34,7 +34,7 @@ _International Joint Conference on Artificial Intelligence, **IJCAI 2022**_ <br>
 [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
 _Area: Image Captioning, Clustering, Transformer, Unsupervised learning_<br>
 
-We present a Visual Commonsense-aware Representation Network (VCRN). Based on a plug-and-play Video Dictionary, we obtain implicit concept-prototypes among videos without extra annotation, and a Visual Concept Selection (VCS) is used to obtain a video-related concept feature. Then, a Conceptual Integration Generation (CIG) is proposed to enhance the caption generation.
+We study how to effectively and efficiently in corporate grid features with transformer-based architecture for image captioning. To achieve this target, we propose a $\mathcal{S}$<sup>2</sup> Transformer—a simple yet effective approach that implicitly learns pseudo regions through a series of learnable clusters in a SP module and simultaneously explores both low and high-level encoded features in a SR module.
 </div>
 </div>
 
