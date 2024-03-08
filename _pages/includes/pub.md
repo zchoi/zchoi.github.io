@@ -42,6 +42,6 @@ We present a Visual Commonsense-aware Representation Network (VCRN). Based on a 
 International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_ <br>
 [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer)
 
-**Video Question Answering with Prior Knowledge and Object-sensitive Learning**, Pengpeng Zeng, Haonan Zhang, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+**Video Question Answering with Prior Knowledge and Object-sensitive Learning**, Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
 IEEE Transactions on Image Processing, _**TIP 2022**_ <br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL)
