@@ -38,8 +38,10 @@ We present a Visual Commonsense-aware Representation Network (VCRN). Based on a 
 </div>
 </div>
 
-**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning**, [Pengpeng Zeng](https://ppengzeng.github.io/)*, **Haonan Zhang***, [Jingkuan Song](https://jingkuansong.github.io/), [Lianli Gao](https://lianligao.github.io/)<br>
-International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_. [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer)
+**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning** [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
+Pengpeng Zeng*, **Haonan Zhang***, Jingkuan Song, Lianli Gao<br>
+International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_<br>
 
-**Video Question Answering with Prior Knowledge and Object-sensitive Learning**, [Pengpeng Zeng](https://ppengzeng.github.io/), **Haonan Zhang**, [Lianli Gao](https://lianligao.github.io/), [Jingkuan Song](https://jingkuansong.github.io/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/)<br>
-IEEE Transactions on Image Processing, _**TIP 2022**_. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL)
+**Video Question Answering with Prior Knowledge and Object-sensitive Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL)  <br>
+Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+IEEE Transactions on Image Processing, _**TIP 2022**_
