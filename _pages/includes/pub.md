@@ -37,3 +37,9 @@ _Area: Video Captioning, Visual Commonsense Knowledge, Attention Mechanism, Lang
 We present a Visual Commonsense-aware Representation Network (VCRN). Based on a plug-and-play Video Dictionary, we obtain implicit concept-prototypes among videos without extra annotation, and a Visual Concept Selection (VCS) is used to obtain a video-related concept feature. Then, a Conceptual Integration Generation (CIG) is proposed to enhance the caption generation.
 </div>
 </div>
+
+**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning**<br>
+Pengpeng Zeng*, **Haonan Zhang***, Jingkuan Song, Lianli Gao<br>
+International Joint Conference on Artificial Intelligence (IJCAI), 2022 <br>
+[[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer)
+
