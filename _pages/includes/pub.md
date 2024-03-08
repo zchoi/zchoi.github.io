@@ -1,17 +1,4 @@
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNLC.png' alt="snlc" width="100%" height="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Learning visual question answering on controlled semantic noisy labels** <br>
-**Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), Yuxuan Hu, Jin Qian, [Jingkuan Song](https://jingkuansong.github.io/), [Lianli Gao](https://lianligao.github.io/) <br>
-_Pattern Recognition, **PR 2023**_ <br>
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
-_Area: Visual question answering, Noisy datasets, Semantic labels, Contrastive learning_<br>
-
-We propose a new challenging task, namely learning visual question answering with controlled semantic noisy labels. It mainly aims to explore a more robust VQA model when in the case of labels containing semantic noises.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -25,29 +12,59 @@ We propose a Depth-Aware Sparse Transformer (DAST) for video-language learning, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="vcrn" width="100%" height="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNLC.png' alt="snlc" width="100%" height="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Learning visual question answering on controlled semantic noisy labels** <br>
+**Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), Yuxuan Hu, Jin Qian, [Jingkuan Song](https://jingkuansong.github.io/), [Lianli Gao](https://lianligao.github.io/) <br>
+_Pattern Recognition, **PR 2023**_ <br>
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
+_Area: Visual question answering, Noisy datasets, Semantic labels, Contrastive learning_<br>
+
+We propose a new challenging task, namely learning visual question answering with controlled semantic noisy labels. It mainly aims to explore a more robust VQA model when in the case of labels containing semantic noises.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/s2.png' alt="s2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Visual Commonsense-aware Representation Network for Video Captioning** <br>
-[Pengpeng Zeng](https://ppengzeng.github.io/), **Haonan Zhang**, [Lianli Gao](https://lianligao.github.io/), [Xiangpeng Li](https://scholar.google.com/citations?hl=zh-CN&user=phH12a4AAAAJ&view_op=list_works&sortby=pubdate), Jin Qian, [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
-_IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2023**_ <br>
-[[arXiv]](https://arxiv.org/abs/2211.09469) [[Paper]](https://ieeexplore.ieee.org/document/10368165/) [[Code]](https://github.com/zchoi/VCRN/tree/main) <br>
-_Area: Video Captioning, Visual Commonsense Knowledge, Attention Mechanism, Language Generation_<br>
+**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning** <br>
+[Pengpeng Zeng](https://ppengzeng.github.io/), **Haonan Zhang**, [Jingkuan Song](https://jingkuansong.github.io/), [Lianli Gao](https://lianligao.github.io/) <br>
+_International Joint Conference on Artificial Intelligence, **IJCAI 2022**_ <br>
+[[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
+_Area: Image Captioning, Clustering, Transformer, Unsupervised learning_<br>
 
 We present a Visual Commonsense-aware Representation Network (VCRN). Based on a plug-and-play Video Dictionary, we obtain implicit concept-prototypes among videos without extra annotation, and a Visual Concept Selection (VCS) is used to obtain a video-related concept feature. Then, a Conceptual Integration Generation (CIG) is proposed to enhance the caption generation.
 </div>
 </div>
 
-**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning** [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
-Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, Lianli Gao<br>
-International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_<br>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="vcrn" width="100%" height="75%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Video Question Answering with Prior Knowledge and Object-sensitive Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL)  <br>
+
+**Memory-based Augmentation Network for Video Captioning** <br>
+Shuaiqi Jing, **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+_IEEE Transactions on Multimedia, **TMM 2023**_<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10183355/) [[Code]](https://github.com/zchoi/MAN)
+
+**Visual Commonsense-aware Representation Network for Video Captioning** <br>
+Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen<br>
+_IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2023**_ <br>
+[[arXiv]](https://arxiv.org/abs/2211.09469) [[Paper]](https://ieeexplore.ieee.org/document/10368165/) [[Code]](https://github.com/zchoi/VCRN/tree/main) <br>
+
+**Video Question Answering with Prior Knowledge and Object-sensitive Learning** <br>
 Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
-IEEE Transactions on Image Processing, _**TIP 2022**_
+_IEEE Transactions on Image Processing, **TIP 2022**_<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL) 
 
-**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) [[Code]](https://github.com/VL-Group/2022-NeurIPS-DAA)  <br>
+**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** <br>
 Hao Li, Jingkuan Song, Lianli Gao, Pengpeng Zeng, **Haonan Zhang**, Gongfu Li<br>
-Advances in Neural Information Processing Systems, _**NeurIPS 2022**_
+_Advances in Neural Information Processing Systems, **NeurIPS 2022**_<br>
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) [[Code]](https://github.com/VL-Group/2022-NeurIPS-DAA)
+
+**You should know more: Learning external knowledge for visual dialog** <br>
+Lei Zhao, **Haonan Zhang**, Xiangpeng Li, Sen Yang, Yuanfeng Song<br>
+_**Neurocomputing 2022**_<br>
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222001795)
 
 
