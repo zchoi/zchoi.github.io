@@ -45,3 +45,9 @@ International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_<br>
 **Video Question Answering with Prior Knowledge and Object-sensitive Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL)  <br>
 Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
 IEEE Transactions on Image Processing, _**TIP 2022**_
+
+**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) [[Code]](https://github.com/VL-Group/2022-NeurIPS-DAA)  <br>
+Hao Li, Jingkuan Song, Lianli Gao, Pengpeng Zeng, **Haonan Zhang**, Gongfu Li<br>
+Advances in Neural Information Processing Systems, _**NeurIPS 2022**_
+
+
