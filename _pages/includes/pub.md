@@ -25,7 +25,7 @@ We propose a new challenging task, namely learning visual question answering wit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/s2.png' alt="s2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/S2.png' alt="s2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning** <br>
