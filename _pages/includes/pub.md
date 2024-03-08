@@ -38,9 +38,9 @@ We present a Visual Commonsense-aware Representation Network (VCRN). Based on a 
 </div>
 </div>
 
-**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning** [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br><br>
-Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, Lianli Gao<br> <br>
-International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_<br><br>
+**$\mathcal{S}$<sup>2</sup> Transformer for Image Captioning** [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
+Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, Lianli Gao<br>
+International Joint Conference on Artificial Intelligence, _**IJCAI 2022**_<br>
 
 **Video Question Answering with Prior Knowledge and Object-sensitive Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL)  <br>
 Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
