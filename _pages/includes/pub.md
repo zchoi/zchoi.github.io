@@ -38,10 +38,6 @@ We study how to effectively and efficiently in corporate grid features with tran
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/VCRN.png' alt="vcrn" width="100%" height="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 **Memory-based Augmentation Network for Video Captioning** <br>
 Shuaiqi Jing, **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
 _IEEE Transactions on Multimedia, **TMM 2023**_<br>
