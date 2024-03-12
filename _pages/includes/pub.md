@@ -1,11 +1,24 @@
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Text-Video Retrieval with Global-Local Semantic Consistent Learning** <br>
+**Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), [Lianli Gao](https://lianligao.github.io/), [Jingkuan Song](https://jingkuansong.github.io/), [Xinyu Lyu](https://xinyulyu.github.io/), Yihang Duan, [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
+_**Arxiv 2024**_ <br>
+_Area: Query-based learning, Text-video retrieval, CLIP_<br>
+
+We propose a simple yet effective method, Global-Local Semantic Consistent Learning (GLSCL), which capitalizes on latent shared semantics across modalities for text-video retrieval via lightweight queries. Beyond that, an inter-consistency loss and an intra-diversity loss are prosped to ensure the consistency and diversity of learned concepts across and within modalities, respectively.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval** <br>
 **Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), [Lianli Gao](https://lianligao.github.io/), [Jingkuan Song](https://jingkuansong.github.io/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
-_**Arxiv 2023**_ <br>
+_**Arxiv 2024**_ <br>
 _Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<br>
 
 We propose a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and captures the fine-grained spatial-temporal information via a parameter-free spatial-temporal shifting strategy.
