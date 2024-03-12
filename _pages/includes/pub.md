@@ -1,4 +1,18 @@
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ump.png' alt="ump" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval** <br>
+**Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), [Lianli Gao](https://lianligao.github.io/), [Jingkuan Song](https://jingkuansong.github.io/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
+_**Arxiv 2023**_ <br>
+_Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<br>
+
+We propose a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and captures the fine-grained spatial-temporal information between video tokens and the prompt tokens via a parameter-free spatial-temporal shifting strategy.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
