@@ -7,7 +7,7 @@
 _**Arxiv 2024**_ <br>
 _Area: Query-based learning, Text-video retrieval, CLIP_<br>
 
-We propose a Global-Local Semantic Consistent Learning (GLSCL), which capitalizes on latent shared semantics across modalities for text-video retrieval via lightweight queries. Beyond that, an inter-consistency loss and an intra-diversity loss are prosped to ensure the consistency and diversity of learned concepts across and within modalities.
+We introduce a Global-Local Semantic Consistent Learning (GLSCL), which capitalizes on latent shared semantics across modalities for text-video retrieval via lightweight queries. Beyond that, an inter-consistency loss and an intra-diversity loss are prosped to ensure the consistency and diversity of learned concepts across and within modalities.
 </div>
 </div>
 
@@ -21,7 +21,7 @@ We propose a Global-Local Semantic Consistent Learning (GLSCL), which capitalize
 _**Arxiv 2024**_ <br>
 _Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<br>
 
-We propose a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and captures the fine-grained spatial-temporal information via a parameter-free spatial-temporal shifting strategy.
+We present a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and captures the fine-grained spatial-temporal information via a parameter-free spatial-temporal shifting strategy.
 </div>
 </div>
 
