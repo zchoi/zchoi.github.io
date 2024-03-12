@@ -1,6 +1,6 @@
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ump.png' alt="ump" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval** <br>
