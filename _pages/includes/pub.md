@@ -1,5 +1,5 @@
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GLSCL.png' alt="glscl" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Text-Video Retrieval with Global-Local Semantic Consistent Learning** <br>
