@@ -8,7 +8,7 @@
 _**Arxiv 2023**_ <br>
 _Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<br>
 
-We propose a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and captures the fine-grained spatial-temporal information between video tokens and the prompt tokens via a parameter-free spatial-temporal shifting strategy.
+We propose a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and captures the fine-grained spatial-temporal information via a parameter-free spatial-temporal shifting strategy.
 </div>
 </div>
 
