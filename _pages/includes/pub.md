@@ -7,7 +7,7 @@
 _**Arxiv 2024**_ <br>
 _Area: Query-based learning, Text-video retrieval, CLIP_<br>
 
-We propose a simple yet effective method, Global-Local Semantic Consistent Learning (GLSCL), which capitalizes on latent shared semantics across modalities for text-video retrieval via lightweight queries. Beyond that, an inter-consistency loss and an intra-diversity loss are prosped to ensure the consistency and diversity of learned concepts across and within modalities, respectively.
+We propose a Global-Local Semantic Consistent Learning (GLSCL), which capitalizes on latent shared semantics across modalities for text-video retrieval via lightweight queries. Beyond that, an inter-consistency loss and an intra-diversity loss are prosped to ensure the consistency and diversity of learned concepts across and within modalities.
 </div>
 </div>
 
