@@ -1,4 +1,6 @@
 # 📝 Publications
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/GLSCL.png' alt="glscl" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -11,8 +13,6 @@ We introduce a Global-Local Semantic Consistent Learning (GLSCL), which capitali
 </div>
 </div>
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -24,7 +24,7 @@ _Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<b
 We present a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and fine-grained spatial-temporal information via a parameter-free spatial-temporal shifting strategy.
 </div>
 </div>
-
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAST.png' alt="dast" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
