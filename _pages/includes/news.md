@@ -1,6 +1,6 @@
 # 🔥 News
 - *2024.4*: I will be interning at the Tongyi Lab this summer.
-- <img src='../../images/aliyun.svg' style="width: 1em;height: -2em"> <img src='../../images/tianchi.svg' style="width: 2em; height: -0.5em">
+<img src='../../images/tongyi.svg' style="width: 1em;height: -2em"><img src='../../images/tongyitext.svg' style="width: 2em; height: 1em">
 - *2023.12*: FT‐Data Ranker: Fine‐Tuning Data Processing Competition for LLMs, 7B‐Model Track (10/377) 
 <img src='../../images/aliyun.svg' style="width: 1em;height: -2em"> <img src='../../images/tianchi.svg' style="width: 2em; height: -0.5em">
 - *2023.12*: FT‐Data Ranker: Fine‐Tuning Data Processing Competition for LLMs, 1B‐Model Track (13/383)
