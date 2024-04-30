@@ -65,7 +65,7 @@ We study how to effectively and efficiently in corporate grid features with tran
 </div>
 </div>
 
-**Memory-based Augmentation Network for Video Captioning**. Shuaiqi Jing, **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen. _IEEE Transactions on Multimedia, **TMM 2023**. <br>
+**Memory-based Augmentation Network for Video Captioning**. Shuaiqi Jing, **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen. _IEEE Transactions on Multimedia, **TMM 2023**_. <br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10183355/) [[Code]](https://github.com/zchoi/MAN)
 
 **Visual Commonsense-aware Representation Network for Video Captioning**. Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen. _IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2023**_ <br>
