@@ -65,28 +65,23 @@ We study how to effectively and efficiently in corporate grid features with tran
 </div>
 </div>
 
-**Memory-based Augmentation Network for Video Captioning** <br>
-Shuaiqi Jing, **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+**Memory-based Augmentation Network for Video Captioning**. Shuaiqi Jing, **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
 _IEEE Transactions on Multimedia, **TMM 2023**_<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10183355/) [[Code]](https://github.com/zchoi/MAN)
 
-**Visual Commonsense-aware Representation Network for Video Captioning** <br>
-Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen<br>
+**Visual Commonsense-aware Representation Network for Video Captioning**. Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen<br>
 _IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2023**_ <br>
 [[arXiv]](https://arxiv.org/abs/2211.09469) [[Paper]](https://ieeexplore.ieee.org/document/10368165/) [[Code]](https://github.com/zchoi/VCRN/tree/main) <br>
 
-**Video Question Answering with Prior Knowledge and Object-sensitive Learning** <br>
-Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+**Video Question Answering with Prior Knowledge and Object-sensitive Learning**. Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
 _IEEE Transactions on Image Processing, **TIP 2022**_<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9882977/) [[Code]](https://github.com/zchoi/PKOL) 
 
-**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** <br>
-Hao Li, Jingkuan Song, Lianli Gao, Pengpeng Zeng, **Haonan Zhang**, Gongfu Li<br>
+**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval**. Hao Li, Jingkuan Song, Lianli Gao, Pengpeng Zeng, **Haonan Zhang**, Gongfu Li<br>
 _Advances in Neural Information Processing Systems, **NeurIPS 2022**_<br>
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) [[Code]](https://github.com/VL-Group/2022-NeurIPS-DAA)
 
-**You should know more: Learning external knowledge for visual dialog** <br>
-Lei Zhao, **Haonan Zhang**, Xiangpeng Li, Sen Yang, Yuanfeng Song<br>
+**You should know more: Learning external knowledge for visual dialog**. Lei Zhao, **Haonan Zhang**, Xiangpeng Li, Sen Yang, Yuanfeng Song<br>
 _**Neurocomputing 2022**_<br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222001795)
 
