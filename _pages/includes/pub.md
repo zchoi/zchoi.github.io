@@ -1,6 +1,6 @@
 # 📝 Publications
 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/GLSCL.png' alt="glscl" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -12,13 +12,14 @@ _Area: Query-based learning, Text-video retrieval, CLIP_<br>
 We introduce a Global-Local Semantic Consistent Learning (GLSCL), which capitalizes on latent shared semantics across modalities via lightweight queries. An inter-consistency loss and an intra-diversity loss are processed to ensure the consistency and diversity of learned concepts across and within modalities.
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval** <br>
 **Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), [Lianli Gao](https://lianligao.github.io/), [Jingkuan Song](https://jingkuansong.github.io/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
-_**Arxiv 2024**_ <br>
+_**TCSVT 2024**_ <br>
 _Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<br>
 
 We present a Unified Modality-aware Prompt Tuning (UMP) method that encourages the mutual promotion of two branches by utilizing shared modality-aware prompt tokens and fine-grained spatial-temporal information via a parameter-free spatial-temporal shifting strategy.
