@@ -17,7 +17,7 @@ We introduce a Global-Local Semantic Consistent Learning (GLSCL), which capitali
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/UMP.png' alt="ump" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval** <br>
+**_UMP_: Unified Modality-aware Prompt Tuning for Text-Video Retrieval** <br>
 **Haonan Zhang**, [Pengpeng Zeng](https://ppengzeng.github.io/), [Lianli Gao](https://lianligao.github.io/), [Jingkuan Song](https://jingkuansong.github.io/), [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/) <br>
 _**TCSVT 2024**_ <br>
 _Area: Prompt tuning, Text-video retrieval, Video and Language Learning, CLIP_<br>
