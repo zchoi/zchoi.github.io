@@ -1,7 +1,7 @@
 # 🔥 News
 - *2024.07*: 🎉 One paper was accepted by ACM MM 2024!
 - *2024.07*: 🎉 One paper was accepted by TCSVT 2024!
-- *2024.07*: 🎉🎉🎉 Our team achieves the Ninth-Winner in Challenge: [Black-box Adversarial Attacks on Vision Foundation Models](https://cvpr24-advml.github.io/) in CVPR 2024 Workshop! <img src='../../images/cvpr24.png' style="width: 4em;height: 0.5em">
+- *2024.07*: 🎉🎉🎉 Our team achieves the Ninth-Winner in Challenge: [Black-box Adversarial Attacks on Vision Foundation Models](https://cvpr24-advml.github.io/) in CVPR 2024 Workshop! <img src='../../images/cvpr24.png' style="width: 4em;height: 1em">
 - *2024.04*: I will be interning at the Tongyi Lab this summer.
 <img src='../../images/tongyi.svg' style="width: 1em;height: -2em"><img src='../../images/tongyitext.svg' style="width: 2em; height: 1em">
 - *2023.12*: FT‐Data Ranker: Fine‐Tuning Data Processing Competition for LLMs, 7B‐Model Track (10/377) 
