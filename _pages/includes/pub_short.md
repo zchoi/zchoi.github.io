@@ -1,6 +1,7 @@
 
 # 📝 Publications
 
+- ``ACM MM 2024`` MPT: Multi-grained Prompt Tuning for Text-Video Retrieval. **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - ``TCSVT 2024`` _UMP_: Unified Modality-aware Prompt Tuning for Text-Video Retrieval. **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10599510) [[Code]](https://github.com/zchoi/UMP_TVR)
 - ``ACM MM 2023`` Depth-Aware Sparse Transformer for Video-Language Learning. **Haonan Zhang**, Lianli Gao, Pengpeng Zeng, Alan Hanjalic, Heng Tao Shen. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611714) [[Code]](https://github.com/zchoi/DAST) [[Poster]](https://1drv.ms/b/s!Am8OAR5-SGckiKNvuofaBnypNCxbJQ?e=ow0DNd)
 - ``PR 2023`` Learning visual question answering on controlled semantic noisy labels. **Haonan Zhang**, Pengpeng Zeng, Yuxuan Hu, Jin Qian, Jingkuan Song, Lianli Gao. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) ![GitHub Repo stars](https://img.shields.io/github/stars/zchoi/SNLC)
