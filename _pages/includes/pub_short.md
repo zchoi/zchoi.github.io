@@ -14,4 +14,4 @@
 - ``NeurIPS 2022`` A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval. Hao Li, Jingkuan Song, Lianli Gao, Pengpeng Zeng, **Haonan Zhang**, Gongfu Li. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) [[Code]](https://github.com/VL-Group/2022-NeurIPS-DAA) [[Paper]]() [[Code]]() ![GitHub Repo stars](https://img.shields.io/github/stars/VL-Group/2022-NeurIPS-DAA)
 - ``Neurocomputing 2022`` You should know more: Learning external knowledge for visual dialog**. Lei Zhao, **Haonan Zhang**, Xiangpeng Li, Sen Yang, Yuanfeng Song. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222001795)
 
-* means equal contribution
+(* means the equal contribution)
