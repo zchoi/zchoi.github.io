@@ -47,6 +47,14 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 \* indicates equal contribution
 
+- A Survey on Efficient Vision-Language-Action Models. arXiv 2025. <br>
+Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen<br>
+[Paper] [[Code]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
+
+- Prototype-based Regularization Learning For Text-Video Retrieval. arXiv 2025. <br>
+**Haonan Zhang**, Yunwei Ma, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen <br>
+[Paper] [Code]<br>
+
 - OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **NeurIPS 2025**. <br>
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
