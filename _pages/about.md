@@ -56,6 +56,10 @@ Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jing
 **Haonan Zhang**, Yunwei Ma, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen <br>
 [Paper] [Code]<br>
 
+- OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents. arXiv 2025. <br>
+**Haonan Zhang**, Pengpeng Zeng, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, and Lianli Gao <br>
+[[Code]](https://github.com/zchoi/OmniCharacter-plus)
+
 - OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **NeurIPS 2025**. <br>
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
