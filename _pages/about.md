@@ -50,7 +50,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 - A Survey on Efficient Vision-Language-Action Models. arXiv 2025. <br>
 Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen<br>
-[Paper] [[Github]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
+[Paper](https://arxiv.org/abs/2510.24795) [[Github]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
 
 - Prototype-based Regularization Learning For Text-Video Retrieval. arXiv 2025. <br>
 **Haonan Zhang**, Yunwei Ma, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen <br>
