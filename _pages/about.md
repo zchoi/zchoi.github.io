@@ -28,7 +28,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 We release "A Survey on Efficient Vision-Language-Action Models", the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, providing an in-depth coverage of the entire _data–model–training_ pipeline.
+- *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, providing an in-depth coverage of the entire _data–model–training_ pipeline.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
@@ -50,7 +50,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 - A Survey on Efficient Vision-Language-Action Models. arXiv 2025. <br>
 Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen<br>
-[Paper] [[Code]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
+[Paper] [[Github]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
 
 - Prototype-based Regularization Learning For Text-Video Retrieval. arXiv 2025. <br>
 **Haonan Zhang**, Yunwei Ma, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen <br>
