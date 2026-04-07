@@ -28,10 +28,11 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2026 main.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/)![GitHub Repo stars](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025 main.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by TCSVT 2024.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM Multimedia 2024.
