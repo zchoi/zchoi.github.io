@@ -50,6 +50,10 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 \* indicates equal contribution
 
+- Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models. CVPR 2026. <br>
+Jinlong Li, Liyuan Jiang, **Haonan Zhang**, Nicu Sebe<br>
+[[Paper]](https://arxiv.org/abs/2603.01400) [[Github]](https://github.com/TyroneLi/AOT) [[Project Page]](https://tyroneli.github.io/AOT/)<br>
+
 - A Survey on Efficient Vision-Language-Action Models. arXiv 2025. <br>
 Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen<br>
 [[Paper]](https://arxiv.org/abs/2510.24795) [[Github]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
