@@ -28,6 +28,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2026 main.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/)![GitHub Repo stars](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models.
@@ -50,6 +51,10 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 \* indicates equal contribution
 
+- OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents. TPAMI 2026. <br>
+**Haonan Zhang**, Pengpeng Zeng, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, and Lianli Gao <br>
+[[Code]](https://github.com/zchoi/OmniCharacter-plus)
+
 - Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models. CVPR 2026. <br>
 Jinlong Li, Liyuan Jiang, **Haonan Zhang**, Nicu Sebe<br>
 [[Paper]](https://arxiv.org/abs/2603.01400) [[Github]](https://github.com/TyroneLi/AOT) [[Project Page]](https://tyroneli.github.io/AOT/)<br>
@@ -61,10 +66,6 @@ Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jing
 - Prototype-based Regularization Learning For Text-Video Retrieval. arXiv 2025. <br>
 **Haonan Zhang**, Yunwei Ma, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen <br>
 [Paper] [Code]<br>
-
-- OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents. arXiv 2025. <br>
-**Haonan Zhang**, Pengpeng Zeng, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, and Lianli Gao <br>
-[[Code]](https://github.com/zchoi/OmniCharacter-plus)
 
 - OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **NeurIPS 2025**. <br>
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
