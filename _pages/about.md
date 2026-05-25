@@ -53,7 +53,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 - OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents. TPAMI 2026. <br>
 **Haonan Zhang**, Pengpeng Zeng, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, and Lianli Gao <br>
-[[Code]](https://github.com/zchoi/OmniCharacter-plus)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11506238?casa_token=VQR1PcA3qjAAAAAA:INXRqxI_XAopWIijLyYjcYhhON94qX4cr4o_rqVBUx8lR3HKjGgZVJmak2uS4kgAAiPllSNeL17t) [[Code]](https://github.com/zchoi/OmniCharacter-plus) [[Project Page]](https://zchoi.github.io/OmniCharacter-plus/)
 
 - Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models. CVPR 2026. <br>
 Jinlong Li, Liyuan Jiang, **Haonan Zhang**, Nicu Sebe<br>
