@@ -24,7 +24,7 @@ Currently, I am also a visiting Ph.D. student at the Multimedia and Human Unders
 
 My research interests focus on Multi-modal Learning, LLMs. I am currently exploring the exciting and fast-growing field of Vision-Language-Action (VLA) models as part of my recent research.
 
-For more information, please see my [CV](https://zchoi.github.io/assets/cv_haonanzhang.pdf).
+For more information, please see my [CV](https://zchoi.github.io/assets/cv_haonanzhang_0611.pdf).
 
 
 # 🔥 News
