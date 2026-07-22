@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haonan Zhang"
-description              : "Ph.D. student"
+description              : "Postdoc"
 repository               : "zchoi/zchoi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Haonan Zhang"
   avatar           : "images/IMG_5541.jpeg"
   bio              : "Alibaba Tongyi Lab｜Tongji University"
-  location         : "Sichuan, China"
+  location         : "Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=awYExM8AAAAJ&hl=zh-CN"
-  email            : "zchiowal.com"
+  email            : "zchiowal@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
