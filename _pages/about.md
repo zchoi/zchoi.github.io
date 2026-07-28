@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Haonan Zhang (张浩楠 in Chinese) is currently with Alibaba Tongyi Lab, where he conducts research on Qwen Character. He received his Ph.D. in Computer Science and Technology from the University of Electronic Science and Technology of China (UESTC) in 2026, supervised by Prof. [Lianli Gao](https://scholar.google.com/citations?hl=en&user=zsm2dpYAAAAJ) and Prof. [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/). During his doctoral studies, he was also a visiting Ph.D. student with the Multimedia and Human Understanding Group (MHUG) at the University of Trento, supervised by Prof. [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
 
-Hi, I’m Haonan Zhang (张浩楠 in Chinese). I am currently a third-year Ph.D. student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Lianli Gao](https://scholar.google.com/citations?hl=en&user=zsm2dpYAAAAJ) and Prof. [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/). 
-I received my Bachelor's degree in Computer Science and Technology from Xidian University in 2020. That same year, I joined UESTC for a Master’s degree and later transferred to the Ph.D. program in 2022.
-Currently, I am also a visiting Ph.D. student at the Multimedia and Human Understanding Group (MHUG), University of Trento (Italy), supervised by Prof. [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
-
-My research interests focus on Multi-modal Learning, LLMs. I am currently exploring the exciting and fast-growing field of Vision-Language-Action (VLA) models as part of my recent research.
+Before his doctoral studies, he received his bachelor’s degree in Computer Science and Technology from Xidian University in 2020. In the same year, he joined UESTC as a master’s student and later transferred to the Ph.D. program in 2022. His research interests include multimodal learning, large language models, character intelligence, and multimodal interactive agents.
 
 For more information, please see my [CV](https://zchoi.github.io/assets/cv_haonanzhang_0611.pdf).
 
