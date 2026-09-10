@@ -25,19 +25,20 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One survey paper about Efficient VLA was accepted by **IEEE TPAMI**.
 - *2026.07*: &nbsp;🎉🎉 Our survey “[A Survey on Post-training of Multimodal Large Language Models](https://zchoi.github.io/MMPoT-Survey/)” is now available! The first comprehensive survey on post-training of multimodal large language models. The [Paper](https://www.preprints.org/manuscript/202607.1494), [HomePage](https://zchoi.github.io/MMPoT-Survey/), and [GitHub](https://github.com/zchoi/Awesome-Post-Training-for-MLLMs) are all released!
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by **TPAMI 2026**.
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by **IEEE TPAMI**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **ACL 2026 main, Oral (top 3%)**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2026**.
 - *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/)![GitHub Repo stars](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by **NeurIPS 202**5.
 - *2025.09*: &nbsp;🎉🎉 Excited to join the University of Trento 🇮🇹 as a visiting student this September, supervised by Prof. Nicu Sebe. Looking forward to new collaborations and challenges! 🚀
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by **ACL 2025**.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by **TIP 2025**.
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by **TCSVT 2024**.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by **IEEE TIP**.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by **IEEE TCSVT**.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by **ACM Multimedia 2024**.
 - *2024.05*: &nbsp;🎉🎉 Join **Tongyi Lab@Beijing** for a summer internship.
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by **TCSVT 2023**.
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE TCSVT**.
 - *2023.07*: &nbsp;🎉🎉 Release [Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent), a curated list of "Embodied robotics or agent with Vision-Language Models (VLMs) and Large Language Models (LLMs)" research! ![GitHub Repo stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Robotics-and-Agent)
 
 
@@ -54,16 +55,15 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 **Haonan Zhang**, Pengpeng Zeng, Libin Cao, Wenrui Lai, Jinlong Li, Duo Peng. Yi Bin. Xuanhan Wang, Ji Zhang, Jingkuan Song, Nicu Sebe, Yuchuan Wu, Yongbin Li, Heng Tao Shen, Jieping Ye<br>
 [[Paper]](https://www.preprints.org/manuscript/202607.1494) [[GitHub]](https://github.com/zchoi/Awesome-Post-Training-for-MLLMs) [[HomePage]](https://zchoi.github.io/MMPoT-Survey/)
 
-- OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents. TPAMI 2026. <br>
+- OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents. IEEE TPAMI. <br>
 **Haonan Zhang**, Pengpeng Zeng, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, and Lianli Gao <br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11506238?casa_token=VQR1PcA3qjAAAAAA:INXRqxI_XAopWIijLyYjcYhhON94qX4cr4o_rqVBUx8lR3HKjGgZVJmak2uS4kgAAiPllSNeL17t) [[Code]](https://github.com/zchoi/OmniCharacter-plus) [[Project Page]](https://zchoi.github.io/OmniCharacter-plus/)
-
 
 - Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models. CVPR 2026. <br>
 Jinlong Li, Liyuan Jiang, **Haonan Zhang**, Nicu Sebe<br>
 [[Paper]](https://arxiv.org/abs/2603.01400) [[Github]](https://github.com/TyroneLi/AOT) [[Project Page]](https://tyroneli.github.io/AOT/)<br>
 
-- A Survey on Efficient Vision-Language-Action Models. arXiv 2025. <br>
+- A Survey on Efficient Vision-Language-Action Models. IEEE TPAMI. <br>
 Zhaoshu Yu, Bo Wang, Pengpeng Zeng, **Haonan Zhang**, Ji Zhang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen<br>
 [[Paper]](https://arxiv.org/abs/2510.24795) [[Github]](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) [[Project Page]](https://evla-survey.github.io/)<br>
 
