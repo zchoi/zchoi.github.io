@@ -25,7 +25,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 One survey paper about Efficient VLA was accepted by **IEEE TPAMI**.
+- *2026.09*: &nbsp;🎉🎉 One survey paper about Efficient VLA was accepted by **IEEE TPAMI**.
 - *2026.07*: &nbsp;🎉🎉 Our survey “[A Survey on Post-training of Multimodal Large Language Models](https://zchoi.github.io/MMPoT-Survey/)” is now available! The first comprehensive survey on post-training of multimodal large language models. The [Paper](https://www.preprints.org/manuscript/202607.1494), [HomePage](https://zchoi.github.io/MMPoT-Survey/), and [GitHub](https://github.com/zchoi/Awesome-Post-Training-for-MLLMs) are all released!
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by **IEEE TPAMI**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **ACL 2026 main, Oral (top 3%)**.
