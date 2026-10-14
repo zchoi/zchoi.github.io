@@ -23,6 +23,7 @@ Before his doctoral studies, he received his bachelor’s degree in Computer Sci
 
 For more information, please see my [CV](https://zchoi.github.io/assets/cv_haonanzhang_0611.pdf).
 
+**Email**: zchiowal@gmail.com    **WeChat**: z_Waldeinsamkeit
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 One survey paper about Efficient VLA was accepted by **IEEE TPAMI**.
